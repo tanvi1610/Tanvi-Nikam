@@ -112,31 +112,6 @@
 
 ---
 
-## 💡 Fun Facts About Me
-
-<div align="center">
-
-```python
-class TanviNikam:
-    def __init__(self):
-        self.name = "Tanvi Anant Nikam"
-        self.role = "AI/ML Engineer"
-        self.interests = ["Machine Learning", "Data Science", "Innovation"]
-        self.current_project = "Smart India Hackathon"
-        self.learning = "Advanced GitHub Workflows"
-        self.collaboration = "Open for exciting projects"
-    
-    def get_motto(self):
-        return "Turning data into insights, one algorithm at a time! 🚀"
-
-me = TanviNikam()
-print(me.get_motto())
-```
-
-</div>
-
----
-
 <div align="center">
   
   <!-- Animated Footer -->
